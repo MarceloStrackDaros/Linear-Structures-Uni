@@ -1,0 +1,5 @@
+package enums;
+
+public enum TipoOrdenacao {
+	IDADE_ASC, IDADE_DESC, VOTO_ASC, VOTO_DESC, PARTIDO_ASC, PARTIDO_DESC, NOME_ASC, NOME_DESC
+}
